@@ -1,1 +1,16 @@
-/home/jordan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap
+[
+	{ "keys": ["ctrl+x"], "command": "cut" },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+shift+up"], "command": "expand_region" },
+	{
+		"keys": ["alt+shift+down"],
+		"command": "expand_region",
+		"args": {"undo"			: true},
+		"context": [{ "key": "expand_region_soft_undo" }]
+	},
+	{"keys": ["ctrl+shift+f"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["alt+y"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+]

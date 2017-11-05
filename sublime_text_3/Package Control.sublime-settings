@@ -1,1 +1,18 @@
-/home/jordan/.config/sublime-text-3/Packages/User/Package Control.sublime-settings
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"ColorPicker",
+		"Emmet",
+		"ExpandRegion",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	]
+}
