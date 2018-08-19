@@ -25,5 +25,10 @@
         "key": "ctrl+shift+c",
         "command": "editor.action.commentLine",
         "when": "editorTextFocus && !editorReadonly"
-    }
+    },
+    {
+        "key": "ctrl+y",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
 ]
