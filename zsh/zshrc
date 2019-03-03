@@ -1,0 +1,9 @@
+# Path to your oh-my-zsh installation.
+export ZSH=~/.oh-my-zsh
+
+SH_THEME="agnoster"
+DEFAULT_USER=jordan
+
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
