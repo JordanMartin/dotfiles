@@ -28,3 +28,4 @@ git clone --depth 1 https://github.com/b4b4r07/enhancd ${ZSH_CUSTOM:-~/.oh-my-zs
 
 - Fichier `zshrc` à placer dans `~/.zshrc`
 - Fichier `zshrc.custom` à placer dans `~/.zshrc.custom`
+- Fichier `p10k.zsh` à placer dans `~/.p10k.zsh`
