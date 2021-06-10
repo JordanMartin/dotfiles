@@ -31,7 +31,8 @@
             "colorScheme": "One Half Dark",
             "useAcrylic": false,
             "cursorShape": "vintage",
-            "closeOnExit": "always"
+            "closeOnExit": "always",
+            "bellStyle": "visual"
         },
         "list":
         [
